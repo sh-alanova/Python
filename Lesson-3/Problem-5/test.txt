@@ -1,0 +1,30 @@
+Test 0.1.
+Input: 20
+Correct output: YES
+Output: YES
+
+Test 0.2.
+Input: 13
+Correct output: NO
+Output: NO
+
+Test 1.
+Input: 1
+Correct output: YES
+Output: YES
+
+Test 2.
+Input: 7
+Correct output: NO
+Output: NO
+
+Test 3.
+Input: 4
+Correct output: YES
+Output: YES
+
+Test 4.
+Input: 34
+Correct output: NO
+Output: NO
+
