@@ -1,0 +1,30 @@
+Test 0.1.
+Input: 2007
+Correct output: NO 
+Output: NO
+
+Test 0.2.
+Input: 2000
+Correct output: YES
+Output: YES
+
+Test 1.
+Input: 2016
+Correct output: YES
+Output: YES
+
+Test 2.
+Input: 2001
+Correct output: NO
+Output: NO
+
+Test 3.
+Input: 1999
+Correct output: NO
+Output: NO
+
+Test 4.
+Input: 2004
+Correct output: YES
+Output: YES
+
