@@ -49,4 +49,3 @@ Input:
 5
 Correct output: 1 
 Output: 1
-
