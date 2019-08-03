@@ -10,3 +10,5 @@ elif(b % a == 0):
     print(- b // a)
 else:
     print('NO')
+
+    
