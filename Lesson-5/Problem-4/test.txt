@@ -1,0 +1,57 @@
+Test 0.
+Input: 3
+Correct output: 
+102
+111
+120
+201
+210
+300
+Output: 
+102
+111
+120
+201
+210
+300
+
+
+Test 1.
+Input: 2
+Correct output: 
+101
+200
+Output: 
+101
+200
+
+Test 2.
+Input: 1
+Correct output: 
+100
+Output:
+100
+
+Test 3.
+Input: 4
+Correct output: 
+103
+112
+121
+202
+211
+220
+301
+310
+400
+Output:
+103
+112
+121
+202
+211
+220
+301
+310
+400
+
