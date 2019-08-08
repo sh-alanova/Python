@@ -1,0 +1,24 @@
+Test 0.
+Input:
+a twister of twists once twisted a twist
+and the twist that he twisted was a three twisted twist
+now in twisting this twist if a twist should untwist
+would the twist that untwisted untwist the twists
+Correct output: 22
+Output: 22
+
+Test 1.
+Input: 
+a b cd gff
+Correct output: 4
+Output: 4
+
+Test 2.
+Input: aa aa aa
+Correct output: 1
+Output: 1
+
+Test 3.
+Input: as a s
+Correct output: 3
+Output: 3
