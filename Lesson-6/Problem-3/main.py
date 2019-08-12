@@ -1,7 +1,6 @@
 sum = 0
-while (n = int(input())) != 0:
+n = int(input())
+while (n != 0):
     sum += n
+    n = int(input())
 print(sum)
-''' File "C:/Python/untitled-1.py", line 2, in <module>
-    while (n = int(input())) != 0:
-Syntax Error: invalid syntax: <string>, line 2, pos 10 '''
