@@ -6,8 +6,7 @@ def gcd(a, b):
         return max(a, b)
     else:
         return 0
-    
-    
+      
 x1 = int(input())
 y1 = int(input())
 x2 = int(input())
