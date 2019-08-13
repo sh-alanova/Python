@@ -1,0 +1,29 @@
+Test 0.
+Input: 5 10
+Correct output: 2
+Output: 2
+
+Test 1.
+Input: 1 10
+Correct output: 4
+Output: 4
+
+Test 2.
+Input: 10 20
+Correct output: 4
+Output: 4
+
+Test 3.
+Input: 1 100
+Correct output: 25
+Output: 25
+
+Test 4.
+Input: 99 100
+Correct output: 0
+Output: 0
+
+Test 5.
+Input: 1 2
+Correct output: 1
+Output: 1
