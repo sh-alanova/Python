@@ -1,0 +1,6 @@
+f = open('input.txt')
+A = set(f.read().split())
+g = open('output.txt', 'w')
+g.write(str(len(A)))
+f.close()
+g.close()
