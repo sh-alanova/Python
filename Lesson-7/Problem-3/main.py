@@ -1,4 +1,6 @@
 s = input()
-48 <= dig <= 57
-k = s.count(chr(dig))
-print(k)
+ans = 0
+for i in range(len(s)):
+    if '0' <= s[i] <= '9':
+        ans += 1
+print(ans)
