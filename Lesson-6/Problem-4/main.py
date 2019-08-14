@@ -1,11 +1,10 @@
 n = int(input())
-min = n % 10
-max = n % 10
+min_dig = max_dig = n % 10
 while n > 0:
     digit = n % 10
-    if digit < min:
-        min = digit
-    elif digit > max:
-        max = digit
+    if digit < min_dig:
+        min_dig = digit
+    elif digit > max_dig:
+        max_dig = digit
     n //= 10 
-print(min, max)
+print(min_dig, max_dig)
