@@ -1,0 +1,28 @@
+Test 0.
+Input:
+1
+2
+3
+Correct output: 6
+Output: 6
+
+Test 1.
+Input: 
+1
+2
+3
+4
+Correct output: 10
+Output: 10
+
+Test 2.
+Input: 1
+Correct output: 1
+Output: 1
+
+Test 3.
+Input: 
+23 
+47 
+Correct output: 70
+Output: 70
