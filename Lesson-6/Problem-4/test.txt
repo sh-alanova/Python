@@ -1,0 +1,24 @@
+Test 0.
+Input: 1234
+Correct output: 1 4
+Output: 1 4
+
+Test 1.
+Input: 23145
+Correct output: 1 5
+Output: 1 5
+
+Test 2.
+Input: 11
+Correct output: 1 1
+Output: 1 1
+
+Test 3.
+Input: 34723
+Correct output: 2 7
+Output: 2 7
+
+Test 4.
+Input: 10
+Correct output: 0 1
+Output: 0 1
