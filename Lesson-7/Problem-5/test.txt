@@ -1,0 +1,31 @@
+Test 0.
+Input: 10+14=24
+Correct output: 48
+Output: 48
+
+Test 1.
+Input: 12+1
+Correct output: 13
+Output: 13
+
+Test 2.
+Input: aajd2dkfj4dfdkj2
+Correct output: 8
+Output: 8
+
+Test 3.
+Input: 123f1
+Correct output: 124
+Output: 124
+
+Test 4.
+Input: 1
+Correct output: 1
+Output: 1
+
+Test 5.
+Input: &&5$$^245
+Correct output: 250
+Output: 250
+
+
