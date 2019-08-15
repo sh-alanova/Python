@@ -1,0 +1,47 @@
+Test 0.
+Input:
+3
+2
+4
+Correct output: YES
+Output: YES
+
+Test 1.
+Input: 
+3
+2
+1
+Correct output: NO
+Output: N0
+
+Test 2.
+Input: 
+2
+7
+4
+Correct output: YES
+Output: YES
+
+Test 3.
+Input: 
+6
+7
+21
+Correct output: YES
+Output: YES
+
+Test 4.
+Input: 
+5
+6
+7
+Correct output: NO
+Output: NO
+
+Test 5.
+Input: 
+4
+1
+1
+Correct output: YES
+Output: YES
