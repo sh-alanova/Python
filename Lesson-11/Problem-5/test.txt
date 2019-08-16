@@ -1,0 +1,42 @@
+Test 0.
+Input:
+2
+16
+Correct output: 536
+Output: 536
+
+Test 1.
+Input: 
+2
+10
+Correct output: 24
+Output: 24
+
+Test 2.
+Input: 
+1
+1
+Correct output: 1
+Output: 1
+
+Test 3.
+Input: 
+9
+10
+Correct output: 401
+Output: 401
+
+Test 4.
+Input: 
+43
+7
+Correct output: 107
+Output: 107
+
+Test 5.
+Input: 
+67
+35
+Correct output: 843
+Output: 843
+
