@@ -1,0 +1,34 @@
+Test 0.
+Input:
+sharm
+marsh
+Correct output: YES
+Output: YES
+
+Test 1.
+Input: 
+ananas
+nnaaass
+Correct output: NO
+Output: NO
+
+Test 2.
+Input: 
+assad
+dsaas
+Correct output: YES
+Output: YES
+
+Test 3.
+Input: 
+ghgfkk
+kfgfhkg
+Correct output: NO
+Output: NO
+
+Test 4.
+Input: 
+a
+a
+Correct output: YES
+Output: YES
