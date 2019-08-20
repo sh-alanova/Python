@@ -23,5 +23,6 @@ if max_value == 1:
     g.write(A[0])
 else:
     g.write(max_key)
+    
 f.close()
 g.close()     
