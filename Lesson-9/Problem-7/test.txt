@@ -1,0 +1,27 @@
+Test 0.
+Input: Sochi-2014
+Correct output: -2014
+Output: -2014
+
+Test 1.
+Input: a1b2c10d
+Correct output: 13
+Output: 13
+
+Test 2.
+Input: 
+200-100
+20-10
+2-1
+Correct output: 111
+Output: 111
+
+Test 3.
+Input: 1
+Correct output: 1
+Output: 1
+
+Test 4.
+Input: 1a2n3
+Correct output: 6
+Output: 6
