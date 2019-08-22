@@ -3,7 +3,7 @@ def SimpleCountingSort(A):
     x = min(A)
     for elem in A: 
         B[elem - x] += 1
-    A[:] = []
+    A = []
     for j in range(x, x + 107):
         A += [j] * B[j - x]
     return A
