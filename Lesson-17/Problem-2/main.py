@@ -1,8 +1,8 @@
 def SimpleCountingSort(A):
     B = [0] * 107
     x = min(A)
-    for i in range(x, x + 107): 
-        B[i - x] = A.count(i)
+    for elem in A: 
+        B[elem - x] += 1
     A[:] = []
     for j in range(x, x + 107):
         A += [j] * B[j - x]
