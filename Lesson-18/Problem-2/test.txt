@@ -1,0 +1,29 @@
+Test 0.
+Input: ()
+Correct output: YES
+Output: YES
+
+Test 1.
+Input: ([])
+Correct output: YES
+Output: YES
+
+Test 2.
+Input: )(
+Correct output: NO
+Output: NO
+
+Test 3.
+Input: ([{}])
+Correct output: YES
+Output: YES
+
+Test 4.
+Input: ([)]
+Correct output: NO
+Output: NO
+
+Test 5.
+Input: ({[}])
+Correct output: NO
+Output: NO
