@@ -1,0 +1,51 @@
+Test 0.
+Input:
+3
+Ivanov 10
+Petrov 9
+Sidorov 9
+Correct output: 
+9 Petrov
+9 Sidorov
+10 Ivanov
+Output: 
+9 Petrov
+9 Sidorov
+10 Ivanov
+
+Test 1.
+Input: 
+1
+Petrov 3
+Correct output: 3 Petrov
+Output: 3 Petrov
+
+Test 2.
+Input: 
+2
+Kim 5
+Fip 4
+Correct output: 
+4 Fip
+5 Kim
+Output:
+4 Fip
+5 Kim
+
+Test 3.
+Input: 
+4
+K 1
+H 8
+D 4
+L 6
+Correct output: 
+1 K
+4 D
+6 L
+8 H
+Output: 
+1 K
+4 D
+6 L
+8 H
