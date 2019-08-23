@@ -1,0 +1,25 @@
+Test 0.
+Input: wwstdaadierfflitzzz
+Correct output: stierlitz
+Output: stierlitz
+
+Test 1.
+Input: assad
+Correct output: d
+Output: d
+
+Test 2.
+Input: jff
+Correct output: j
+Output: j
+
+Test 3.
+Input: ffhgghkal
+Correct output: kal
+Output: kal
+
+Test 4.
+Input: fgkgf
+Correct output: k
+Output: k
+
