@@ -11,4 +11,3 @@ print(sum)
 for i in range(n):
     print(B[i][1] + 1, end = ' ')
    
-
