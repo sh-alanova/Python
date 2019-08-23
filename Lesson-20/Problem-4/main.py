@@ -1,12 +1,11 @@
 n = int(input())
 A = list(map(int, input().split()))
-B = [0] * n
-for i in range(n):
-    B[i] = (A[i], i)
-B.sort(reverse = True)
+A.sort()
+i = len(A) - 3
+while i >= 0:
+    A.pop(i)
+    i -= 3
 sum = 0
-for i in range(n):
-    sum += B[i][0] * (i + 1)
+for elem in A:
+    sum += elem 
 print(sum)
-for i in range(n):
-    print(B[i][1] + 1, end = ' ')
