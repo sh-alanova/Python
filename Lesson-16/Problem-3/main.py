@@ -10,13 +10,12 @@ A = []
 A_summa = 0
 for i in range(N):
     A.append(int(input()))
-    N -= 1
     A_summa += A[i]
 BubbleSort(A)
-sum = i = ans = 0
+memory_sum = i = ans = 0
 if A_summa > S:
-    while sum <= S:
-            sum += A[i]
+    while memory_sum <= S:
+            memory_sum += A[i]
             i += 1
             ans += 1
 else:
