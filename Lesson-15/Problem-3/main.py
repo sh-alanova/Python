@@ -13,7 +13,4 @@ ans = 0
 for i in range(0, n + 1):
     if IsPrime[i] == True:
         Primes.append(i)
-        ans += 1
-
-print(Primes)
-print(ans)
+print(len(Primes))
