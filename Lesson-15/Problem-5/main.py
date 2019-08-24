@@ -1,13 +1,14 @@
 def SumDel(n):
-    sum = 0
-    for i in range(1, n):
+    sum = 1
+    i = 2
+    while i * i <= n:
         if n % i == 0:
-            sum += i 
+            sum += i + n // i 
+        i += 1
     return sum
 
 n = int(input())
 for i in range(1, n + 1):
-    for j in range(1, n + 1):
-        if i == SumDel(j) and j == SumDel(i) and i < j:
-            print(i, j)
-    
+    j = SumDel(i)
+    if i == SumDel(j) and i < j <= n:
+        print(i, j)
