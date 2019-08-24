@@ -1,0 +1,46 @@
+Test 0.
+Input:
+a twister of twists once twisted a twist
+and the twist that he twisted was a three twisted twist
+now in twisting this twist if a twist should untwist
+would the twist that untwisted untwist the twists
+Correct output: twist
+Output: twist
+
+Test 1.
+Input: 
+ab ba
+bb aa
+Correct output: aa
+Output: aa
+
+Test 2.
+Input: 
+ada abd 
+Correct output: abd
+Output: abd
+
+Test 3.
+Input: 
+j hg jg
+Correct output: j
+Output: j
+
+Test 4.
+Input: 
+At ten to eight I leave for school. I go to school five days a week. It takes me twenty minutes to get to school by bus. 
+At school I usually have six or seven lessons. The lessons are over at two o'clock. I return home at three o'clock. 
+I have lunch and take a short rest.I go for a walk with my friends. In spring we play football, in winter we play hockey or ski. 
+I am back at home at a quarter past four. At four thirty I begin to do my home-work. It takes me three hours to do it. 
+On Monday, Wednesday and Friday I attend preparatory courses at the University. I leave home, at four thirty and come 
+back at eight thirty.
+Correct output: I
+Output: I
+
+Test 5.
+Input: 
+My home, my sweet home... Sometimes after a long journey I return home with such pleasure and happiness, that I feel myself 
+like a baby that returns to its mother. I love every corner and every thing in my flat. "My home is my fortress", it is my 
+territory, my place where I feel good and comfortable. And nobody can disturb me here.
+Correct output: my
+Output: my
