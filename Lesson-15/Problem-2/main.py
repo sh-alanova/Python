@@ -8,9 +8,10 @@ while d * d <= n:
         for i in range(d * d, n + 1, d):
             IsPrime[i] = False
     d += 1
-Palindroms = []
-for i in range(0, n + 1):
+i = n
+while i > 0:
     if IsPrime[i] == True and str(i) == str(i)[::-1]:
-        Palindroms.append(i)
-
-print(Palindroms[-1])
+        print(i)
+        break
+    i -= 1
+    
